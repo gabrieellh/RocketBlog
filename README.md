@@ -1,7 +1,7 @@
 <h1 align="center">RocketBlog</h1>
 &nbsp;
 
-![featured-image](./img/featured-image.png)
+<img src="./img/featured-image.png" align="center">
 &nbsp;
 
 <h2 align="center"> A Discover challenge </h2>
