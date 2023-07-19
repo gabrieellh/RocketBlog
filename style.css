@@ -164,7 +164,6 @@ footer {
     ul {
         display: flex;
         flex-direction: column;
-        text-align: center;
     }
 
     .news-on-the-top {
@@ -174,24 +173,22 @@ footer {
     }
 
     .featured-image {
-        width: 300px;
+        width: 400px;
     }
 
     #link {
-        background-position: 20%;
+        background-position: 30%;
     }
 
     .posts {
         display: flex;
         flex-direction: column;        
         gap: 5rem;
-        text-align: center;
     }
 
     .other-posts {
         display: grid;
         place-items: center;
-        text-align: center; 
         margin-right: 4rem;
     
     }
