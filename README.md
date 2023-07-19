@@ -3,7 +3,7 @@
 
 
 <p align="center">
-<img  width="70%" src="./img/featured-image.png" align="center" alt="laptop-code">]
+<img  width="70%" src="./img/featured-image.png" align="center" alt="laptop-code">
 </p>
 
 &nbsp;
