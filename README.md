@@ -1,7 +1,7 @@
 <h1 align="center">RocketBlog</h1>
 &nbsp;
 
-<img src="./img/featured-image.png" align="center">
+<img  width="70%" src="./img/featured-image.png" align="center" alt="laptop-code">
 &nbsp;
 
 <h2 align="center"> A Discover challenge </h2>
